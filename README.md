@@ -3,7 +3,7 @@
 [cypress-image]:https://img.shields.io/badge/cypress-10.9.0-beige
 [cypress-url]:https://docs.cypress.io/guides/overview/why-cypress
 
-# Projeto Principal Blogdoagi
+# Projeto de teste DTI (Rodrigo Tostes)
 [![JavaScript Version][javascript-image]][javascript-url]
 [![Cypress Version][cypress-image]][cypress-url]
 
