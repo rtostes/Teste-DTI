@@ -1,0 +1,7 @@
+{
+  "email": "testedti@dti.com",
+  "senha": "12345",
+  "emailErro": "teste@teste.com",
+  "senhaErro": "222222",
+  "mensagemEmailExistente": "An account using this email address has already been registered. Please enter a valid password or request a new one."
+}

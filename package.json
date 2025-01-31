@@ -1,0 +1,21 @@
+{
+  "name": "Teste-DTI",
+  "version": "1.0.1",
+  "engines": {
+    "node": ">=22.13.1"
+  },
+  "scripts": {
+    "cy:test": "cypress run --config video=false",
+    "cy:open": "cypress open --e2e -b chrome"
+  },
+  "Autor": "Rodrigo Tostes",
+  "keywords": [
+    "cypress",
+    "tests",
+    "mocha",
+    "github-actions"
+  ],
+  "devDependencies": {
+    "cypress": "^14.0.1"
+  }
+}
